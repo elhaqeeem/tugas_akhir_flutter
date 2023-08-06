@@ -1,11 +1,12 @@
+# tugas_akhir (Unjuk Keterampilan) Prakerja
+
 ini adalah tugas akhir KP_Lukmanul Hakim
+berupa project app
 
 crud dengan database offline sqflite 
 - material design
 - snackbar
 - dll
-
-# tugas_akhir
 
 Screenshoot
 
