@@ -1,6 +1,6 @@
 ini adalah tugas akhir KP_Lukmanul Hakim
 
-= crud dengan database offline sqflite 
+crud dengan database offline sqflite 
 - material design
 - snackbar
 - dll
@@ -20,7 +20,5 @@ Screenshoot
 ![5](https://github.com/pythonize/tugas_akhir/assets/35244043/944ef7a2-d394-470d-84db-4fa1add55c1e)
 
 ![6](https://github.com/pythonize/tugas_akhir/assets/35244043/2da85768-bf96-4913-b0bf-cffb9ad4ab5f)
-
-![Screenshot_1691334847](https://github.com/pythonize/tugas_akhir/assets/35244043/913875e4-a1b4-4f04-8450-4ed9cc34dae0)
 
 
