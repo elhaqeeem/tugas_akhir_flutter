@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         // Remove the debug banner
         debugShowCheckedModeBanner: false,
-        title: 'Kindacode.com',
+        title: 'Crud first app',
         theme: ThemeData(
           primarySwatch: Colors.orange,
         ),
@@ -148,7 +148,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Kindacode.com'),
+        title: const Text('Crud first app'),
       ),
       body: _isLoading
           ? const Center(
