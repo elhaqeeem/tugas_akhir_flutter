@@ -1,19 +1,26 @@
 ini adalah tugas akhir KP_Lukmanul Hakim
 
+= crud dengan database offline sqflite 
+- material design
+- snackbar
+- dll
 
 # tugas_akhir
 
-A new Flutter project.
+Screenshoot
 
-## Getting Started
+![1](https://github.com/pythonize/tugas_akhir/assets/35244043/79c3de77-6b86-4e84-b311-c0578c6ee6f3)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/pythonize/tugas_akhir/assets/35244043/65475113-936c-494d-8d5d-ee9fd5d74f25)
 
-A few resources to get you started if this is your first Flutter project:
+![3](https://github.com/pythonize/tugas_akhir/assets/35244043/4b239567-9fc5-4239-a20e-faa96a87d8c4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![4](https://github.com/pythonize/tugas_akhir/assets/35244043/b344654f-6110-41d0-9df4-fb60c85058c0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5](https://github.com/pythonize/tugas_akhir/assets/35244043/944ef7a2-d394-470d-84db-4fa1add55c1e)
+
+![6](https://github.com/pythonize/tugas_akhir/assets/35244043/2da85768-bf96-4913-b0bf-cffb9ad4ab5f)
+
+![Screenshot_1691334847](https://github.com/pythonize/tugas_akhir/assets/35244043/913875e4-a1b4-4f04-8450-4ed9cc34dae0)
+
+
